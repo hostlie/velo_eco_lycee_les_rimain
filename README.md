@@ -5,5 +5,5 @@ Eléments électroniques nécessaires pour la partie électronique du vélo :
     
 Un Arduino Uno ou Nano (en fonction du besoins des pins)
 Un écran compatible avec l'Arduino (LCD + potentiomètre, digital)
-Du fils pour connecter les éléments entre eux
+Du fils pour connecter les éléments entre eux et un 
 Compteur/capteur de tour de la roue (pour savoir la vitesse du vélo) ou autre
